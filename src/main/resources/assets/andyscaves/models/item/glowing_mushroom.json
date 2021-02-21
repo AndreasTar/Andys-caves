@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "andyscaves:block/glowing_mushroom"
+    }
+}
